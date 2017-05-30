@@ -1,4 +1,4 @@
-// Sunsong - a light teiggered music box crank
+// Sunsong - a light triggered music box crank
 #include <Servo.h>
 
 #define _noDEBUG
